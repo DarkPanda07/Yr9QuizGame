@@ -91,3 +91,4 @@ incrementScore = (num) => {
     score += num;
     scoreText.innerText = score;
 };
+window.location.assign("Yr9QuizGame/end.html");
